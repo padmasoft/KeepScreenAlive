@@ -1,0 +1,10 @@
+C:\Users\suhasg\source\repos\KeepScreenAwake\bin\Debug\KeepScreenAwake.exe.config
+C:\Users\suhasg\source\repos\KeepScreenAwake\bin\Debug\KeepScreenAwake.exe
+C:\Users\suhasg\source\repos\KeepScreenAwake\bin\Debug\KeepScreenAwake.pdb
+C:\Users\suhasg\source\repos\KeepScreenAwake\obj\Debug\KeepScreenAwake.csproj.AssemblyReference.cache
+C:\Users\suhasg\source\repos\KeepScreenAwake\obj\Debug\KeepScreenAwake.HomeForm.resources
+C:\Users\suhasg\source\repos\KeepScreenAwake\obj\Debug\KeepScreenAwake.Properties.Resources.resources
+C:\Users\suhasg\source\repos\KeepScreenAwake\obj\Debug\KeepScreenAwake.csproj.GenerateResource.cache
+C:\Users\suhasg\source\repos\KeepScreenAwake\obj\Debug\KeepScreenAwake.csproj.CoreCompileInputs.cache
+C:\Users\suhasg\source\repos\KeepScreenAwake\obj\Debug\KeepScreenAwake.exe
+C:\Users\suhasg\source\repos\KeepScreenAwake\obj\Debug\KeepScreenAwake.pdb
